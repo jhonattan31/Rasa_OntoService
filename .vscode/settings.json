@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.windows": {
+    "RASA_SHELL_STREAM_READING_TIMEOUT_IN_SECONDS": "100"
+    }
+}

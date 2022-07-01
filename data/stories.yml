@@ -1,0 +1,53 @@
+version: "3.0"
+
+stories:
+
+- story: hor func
+  steps:
+  - intent: hor_func
+  - action: action_hor_func
+
+- story: forma acesso
+  steps:
+  - intent: forma_acesso
+  - action: action_acesso
+
+- story: req serv
+  steps:
+  - intent: req_serv
+  - action: action_req_serv
+
+- story: doc neces
+  steps: 
+  - intent: doc_neces
+  - action: action_doc_neces
+
+- story: serv gratis
+  steps:
+  - intent: serv_gratis
+  - action: action_serv_gratis
+
+- story: serv pres_on
+  steps:
+  - intent: serv_pres_on
+  - action: action_pres_on
+
+- story: serv online_desc
+  steps:
+  - intent: serv_online_desc
+  - action: action_online_desc
+  
+- story: serv pres_desc
+  steps:
+  - intent: serv_pres_desc
+  - action: action_pres_desc
+
+- story: temp serv
+  steps:
+  - intent: temp_serv
+  - action: action_temp_serv
+
+- story: desc serv
+  steps: 
+  - intent: desc_serv
+  - action: action_desc_serv

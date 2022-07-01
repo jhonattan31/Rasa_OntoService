@@ -1,0 +1,8 @@
+version: "3.0"
+
+rules:
+
+- rule: cumprimentar
+  steps:
+  - intent: cumprimento
+  - action: utter_cumprimento

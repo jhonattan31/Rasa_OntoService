@@ -1,0 +1,14 @@
+[
+  {
+    "name": "requisitos",
+    "pattern": "(\\bquesitos\\b|\\bpreciso\\b|\\bnecessário\\b|\\brequerido\\b)"
+  },
+  {
+    "name": "finalidade",
+    "pattern": "(\\bdescrever\\b|\\bdescricao\\b|\\bdefinir\\b|\\bdefiniçao\\b)"
+  },
+  {
+    "name": "negacao",
+    "pattern": "(\\bnão\\b|\\bNão\\b|\\bNÃO\\b|\\bNenhuma\\b|\\bNegação\\b|\\bNegacao\\b|\\bNegaçao\\b|\\bNegativo\\b|\\bnegativo\\b|\\bnegado\\b|\\bnegativa\\b|\\bNEGATIVA\\b|\\bnEGATIVA\\b|\\bNegativa\\b)"
+  }
+]

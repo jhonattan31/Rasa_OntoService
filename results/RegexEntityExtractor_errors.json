@@ -1,0 +1,5035 @@
+[
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe funcionam 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia por dia?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 56,
+        "end": 123,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao  hospedagem de aplicações no mainframe funcionam 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 48,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 59,
+        "end": 126,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 11,
+        "end": 48,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao  hospedagem de aplicações no mainframe abrem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 48,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 55,
+        "end": 122,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 11,
+        "end": 48,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre hospedagem de aplicações no mainframe costumam funcionar 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 63,
+        "end": 130,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O hospedagem de aplicações no mainframe deve abrir 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 51,
+        "end": 118,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "De que modo os hospedagem de aplicações no mainframe que estam em atividade de 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 79,
+        "end": 146,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe em andamento possui funciona 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 71,
+        "end": 138,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Existem hospedagem de aplicações no mainframe 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia acessiveis?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 46,
+        "end": 113,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Estou em duvida sobre o hospedagem de aplicações no mainframe está disponível de 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 81,
+        "end": 148,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber sobre o hospedagem de aplicações no mainframe está disponível de 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 83,
+        "end": 150,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Necessito me informar sobre os hospedagem de aplicações no mainframe que podem ser acessados 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 31,
+        "end": 68,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 93,
+        "end": 160,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 31,
+        "end": 68,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Não tenho ideia do se o hospedagem de aplicações no mainframe funciona 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 71,
+        "end": 138,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como posso saber os hospedagem de aplicações no mainframe que abrem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 68,
+        "end": 135,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Preciso saber se o hospedagem de aplicações no mainframe possibilita funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 56,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 83,
+        "end": 150,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 19,
+        "end": 56,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de ser informado sobre o hospedagem de aplicações no mainframe que abrem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 34,
+        "end": 71,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 82,
+        "end": 149,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 34,
+        "end": 71,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia auxiliar-me sobre hospedagem de aplicações no mainframe que devem abrir 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 80,
+        "end": 147,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como posso saber se uma hospedagem de aplicações no mainframe que está disponível 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 82,
+        "end": 149,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao hospedagem de aplicações no mainframe está em funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 70,
+        "end": 137,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "estou com dúvidas sobre uma hospedagem de aplicações no mainframe, ela funciona 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 80,
+        "end": 147,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber onde vejo se o serviço hospedagem de aplicações no mainframe atua 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 41,
+        "end": 78,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 84,
+        "end": 151,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 41,
+        "end": 78,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me dizer quanto ao hospedagem de aplicações no mainframe possui funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 86,
+        "end": 153,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A hospedagem de aplicações no mainframe permite funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 129,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber se hospedagem de aplicações no mainframe possue disponibilidade 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 82,
+        "end": 149,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Existe hospedagem de aplicações no mainframe permite apenas presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 44,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 60,
+        "end": 117,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 121,
+        "end": 172,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 7,
+        "end": 44,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 164,
+        "end": 172,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe que possibilita presencial, fisicamente, fisico, pessoalmente, presencias, permite acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 58,
+        "end": 115,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 140,
+        "end": 191,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 183,
+        "end": 191,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto hospedagem de aplicações no mainframe permite presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 44,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 53,
+        "end": 110,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 114,
+        "end": 165,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 7,
+        "end": 44,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 157,
+        "end": 165,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "gostaria de saber sobre o hospedagem de aplicações no mainframe permite presencial, fisico ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 72,
+        "end": 90,
+        "value": "presencial, fisico",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 94,
+        "end": 145,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 26,
+        "end": 63,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 137,
+        "end": 145,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "gostaria de saber os hospedagem de aplicações no mainframe que está disponível para presencial, pessoalmente ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 84,
+        "end": 108,
+        "value": "presencial, pessoalmente",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 112,
+        "end": 163,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 155,
+        "end": 163,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "De que modo os hospedagem de aplicações no mainframe estão disponíveis para presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 76,
+        "end": 133,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 137,
+        "end": 188,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 180,
+        "end": 188,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Existem hospedagem de aplicações no mainframe que possibilita presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 119,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 123,
+        "end": 174,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 166,
+        "end": 174,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe em andamento ele possui presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 123,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 127,
+        "end": 178,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 170,
+        "end": 178,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber se os hospedagem de aplicações no mainframe em funcionamento possui presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 86,
+        "end": 143,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 147,
+        "end": 198,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 190,
+        "end": 198,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "poderia me informar sobre os hospedagem de aplicações no mainframe que possibilita presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 83,
+        "end": 140,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 144,
+        "end": 195,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 187,
+        "end": 195,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar sobre os hospedagem de aplicações no mainframe que disponilizam presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 84,
+        "end": 141,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 145,
+        "end": 196,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 188,
+        "end": 196,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe ele possibilita o funcionamento com presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 74,
+        "end": 131,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 135,
+        "end": 186,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 178,
+        "end": 186,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe de presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet, é possivel acessar?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 41,
+        "end": 98,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 102,
+        "end": 153,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 145,
+        "end": 153,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar sobre o hospedagem de aplicações no mainframe, qual serviço possui presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 87,
+        "end": 144,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 148,
+        "end": 199,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 191,
+        "end": 199,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe disponível o mesmo permite presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 69,
+        "end": 126,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 130,
+        "end": 181,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 173,
+        "end": 181,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre o serviço hospedagem de aplicações no mainframe em andamento, gostaria de saber se o mesmo possibilita presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 54,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 110,
+        "end": 167,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 171,
+        "end": 222,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 17,
+        "end": 54,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 214,
+        "end": 222,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber sobre os hospedagem de aplicações no mainframe que estão fazendo presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 83,
+        "end": 140,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 144,
+        "end": 195,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 187,
+        "end": 195,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Estou em dúvida sobre os hospedagem de aplicações no mainframe que possui presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 25,
+        "end": 62,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 74,
+        "end": 131,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 135,
+        "end": 186,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 25,
+        "end": 62,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 178,
+        "end": 186,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre o serviço hospedagem de aplicações no mainframe em andamento, há possibilidade de presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 54,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 89,
+        "end": 146,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 150,
+        "end": 201,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 17,
+        "end": 54,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 193,
+        "end": 201,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe que possui presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 49,
+        "end": 106,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 110,
+        "end": 161,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 153,
+        "end": 161,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe que permite presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 50,
+        "end": 107,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 111,
+        "end": 162,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 154,
+        "end": 162,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe disponível os que permite presencial, fisicamente, fisico, pessoalmente, presencias ou online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 68,
+        "end": 125,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 129,
+        "end": 180,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 172,
+        "end": 180,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais os quesitos, requerido, requesitos, necessário, preciso para solicitar um hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 61,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais quesitos, requerido, requesitos, necessário, preciso são necessarios para solicitar um hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 58,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 93,
+        "end": 130,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 93,
+        "end": 130,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O que quesitos, requerido, requesitos, necessário, preciso para um hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 58,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quero realizar um hospedagem de aplicações no mainframe, o que é quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 18,
+        "end": 55,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 65,
+        "end": 117,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 18,
+        "end": 55,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber o que quesitos, requerido, requesitos, necessário, preciso para realizar o hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 76,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 93,
+        "end": 130,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 93,
+        "end": 130,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais são os quesitos, requerido, requesitos, necessário, preciso para solicitar esse hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 65,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "quesitos, requerido, requesitos, necessário, preciso para este hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 52,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 63,
+        "end": 100,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 63,
+        "end": 100,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar quais são os quesitos, requerido, requesitos, necessário, preciso para solicitar este hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 85,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 106,
+        "end": 143,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 106,
+        "end": 143,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como sei o que é quesitos, requerido, requesitos, necessário, preciso para realizar um hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 69,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 87,
+        "end": 124,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 87,
+        "end": 124,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O que é quesitos, requerido, requesitos, necessário, preciso para realizar este hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 60,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre os quesitos, requerido, requesitos, necessário, preciso para solicitar este hospedagem de aplicações no mainframe, o que é preciso?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 61,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 82,
+        "end": 119,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 82,
+        "end": 119,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O que se faz quesitos, requerido, requesitos, necessário, preciso para solicitar este hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 65,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais serviços possui o CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço comun para solicitar um hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 199,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 224,
+        "end": 261,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 224,
+        "end": 261,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais documentos CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço preciso para solicitar hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 17,
+        "end": 192,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 216,
+        "end": 253,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 216,
+        "end": 253,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço é um documento necessario para hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 177,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 209,
+        "end": 246,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 209,
+        "end": 246,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Preciso do CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço para solicitar hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 186,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 202,
+        "end": 239,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 202,
+        "end": 239,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber se é necessário CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço para os hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 34,
+        "end": 209,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 218,
+        "end": 255,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 218,
+        "end": 255,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar sobre os hospedagem de aplicações no mainframe de  que precisam de CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 87,
+        "end": 262,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 29,
+        "end": 66,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os documentos necessários, o CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço é um deles para hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 36,
+        "end": 211,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 228,
+        "end": 265,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 228,
+        "end": 265,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço é necessario para  hospedagem de aplicações no mainframe.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 175,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 195,
+        "end": 232,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 195,
+        "end": 232,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço é um requisito comum aos hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 177,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 203,
+        "end": 240,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 203,
+        "end": 240,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto a categoria, o CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço é um requisito comum para requer um serviço hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 197,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      },
+      {
+        "start": 242,
+        "end": 279,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 242,
+        "end": 279,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Ao requer um hospedagem de aplicações no mainframe de , é preciso do CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço?",
+    "entities": [
+      {
+        "start": 13,
+        "end": 50,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 69,
+        "end": 244,
+        "value": "CPF, Cadastro de Pessoas Físicas, Cartão do sus, Carteira de Habilitação, CNH, cnpj, Certidão de Nascimento, Reservista, Titulo de Eleitor, titulo, RG, Comprovante de Endereço",
+        "entity": "docNeces"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 13,
+        "end": 50,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao hospedagem de aplicações no mainframe é fornecido gratis, graça, gratuitamente, gratuito e atende 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 60,
+        "end": 98,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 108,
+        "end": 175,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe é disponibilizado gratis, graça, gratuitamente, gratuito tem  funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 64,
+        "end": 102,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 122,
+        "end": 189,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre o gratis, graça, gratuitamente, gratuito o serviço de hospedagem de aplicações no mainframe é um deles, além de oferecer funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 47,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 61,
+        "end": 98,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 142,
+        "end": 209,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 61,
+        "end": 98,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar se hospedagem de aplicações no mainframe o servico ofertado gratis, graça, gratuitamente, gratuito fornecem atuação 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 60,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 80,
+        "end": 118,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 136,
+        "end": 203,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 23,
+        "end": 60,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber sobre hospedagem de aplicações no mainframe o servico ofertado gratis, graça, gratuitamente, gratuito que permite atuação de 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 81,
+        "end": 119,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 143,
+        "end": 210,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 24,
+        "end": 61,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar os gratis, graça, gratuitamente, gratuito o serviço de hospedagem de aplicações no mainframe é um deles,, aos quais permite atender 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 61,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 152,
+        "end": 219,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "gratis, graça, gratuitamente, gratuito é disponivel para o servico hospedagem de aplicações no mainframe, que podem atender 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 38,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 124,
+        "end": 191,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre o hospedagem de aplicações no mainframe é ofertado gratis, graça, gratuitamente, gratuito, quais atendem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 58,
+        "end": 96,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 112,
+        "end": 179,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como saber se o hospedagem de aplicações no mainframe é disponível gratis, graça, gratuitamente, gratuito que atendem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 16,
+        "end": 53,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 67,
+        "end": 105,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 118,
+        "end": 185,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 16,
+        "end": 53,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos gratis, graça, gratuitamente, gratuito permitem para o serviço hospedagem de aplicações no mainframe, quais possui funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 42,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 133,
+        "end": 200,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 67,
+        "end": 104,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao hospedagem de aplicações no mainframe é disponibilizado gratis, graça, gratuitamente, gratuito com funcionamento 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 104,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 123,
+        "end": 190,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe é fornecido gratis, graça, gratuitamente, gratuito abrem 24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 58,
+        "end": 96,
+        "value": "gratis, graça, gratuitamente, gratuito",
+        "entity": "servGratuito"
+      },
+      {
+        "start": 103,
+        "end": 170,
+        "value": "24h, 24 horas, semanalmente, diariamente, segunda a sexta, todo dia",
+        "entity": "horarioAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao hospedagem de aplicações no mainframe possibilita funcionamento presencial, fisicamente, fisico, pessoalmente, presencias que permite acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 74,
+        "end": 131,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 159,
+        "end": 210,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 202,
+        "end": 210,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe possibilita funcionamento presencial, fisicamente, fisico, pessoalmente, presencias podem ser acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 72,
+        "end": 129,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 152,
+        "end": 203,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 195,
+        "end": 203,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias posso acessar de online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 64,
+        "end": 121,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 139,
+        "end": 190,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 182,
+        "end": 190,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto ao hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias permite serem acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 123,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 150,
+        "end": 201,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 193,
+        "end": 201,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber se o hospedagem de aplicações no mainframe possibilita funcionamento presencial, fisicamente, fisico, pessoalmente, presencias pode ser acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 60,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 87,
+        "end": 144,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 166,
+        "end": 217,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 23,
+        "end": 60,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 209,
+        "end": 217,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar se o serviço hospedagem de aplicações no mainframe que realizei presencial, fisicamente, fisico, pessoalmente, presencias é possível ser acompanhado em online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 70,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 84,
+        "end": 141,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 172,
+        "end": 223,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 33,
+        "end": 70,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 215,
+        "end": 223,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "é possível acompanhar online, remotamente, remoto, de casa, pela internet hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 73,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 74,
+        "end": 111,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 130,
+        "end": 187,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 65,
+        "end": 73,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 74,
+        "end": 111,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Solicitei o serviço hospedagem de aplicações no mainframe ele possibilita andamento presencial, fisicamente, fisico, pessoalmente, presencias, posso acompanhalo online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 84,
+        "end": 141,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 161,
+        "end": 212,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 204,
+        "end": 212,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias, pode ser assistido online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 123,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 144,
+        "end": 195,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 187,
+        "end": 195,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber sobre os hospedagem de aplicações no mainframe possibilita andamento presencial, fisicamente, fisico, pessoalmente, presencias que pode ser averiguado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 87,
+        "end": 144,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 169,
+        "end": 220,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 212,
+        "end": 220,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe permite funcionamento presencial, fisicamente, fisico, pessoalmente, presencias, permite acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 64,
+        "end": 121,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 146,
+        "end": 197,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 189,
+        "end": 197,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre os hospedagem de aplicações no mainframe permite funcionamento presencial, fisicamente, fisico, pessoalmente, presencias, são os que permite acompanhar online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 69,
+        "end": 126,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 158,
+        "end": 209,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 201,
+        "end": 209,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe permite funcionamento presencial, fisicamente, fisico, pessoalmente, presencias de acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 60,
+        "end": 117,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 136,
+        "end": 187,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 179,
+        "end": 187,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre hospedagem de aplicações no mainframe permite funcionamento presencial, fisicamente, fisico, pessoalmente, presencias que  permite acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 123,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 152,
+        "end": 203,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 195,
+        "end": 203,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias ao  pode ser acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 119,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 145,
+        "end": 196,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 188,
+        "end": 196,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre o hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias que  posso acessar de online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 119,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 142,
+        "end": 193,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 185,
+        "end": 193,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias,  permite serem acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 60,
+        "end": 117,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 146,
+        "end": 197,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 189,
+        "end": 197,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber se hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias,  pode ser acompanhado online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 75,
+        "end": 132,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 156,
+        "end": 207,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 21,
+        "end": 58,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 199,
+        "end": 207,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar se o serviço hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias  é possível ser acompanhado em online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 33,
+        "end": 70,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 87,
+        "end": 144,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 176,
+        "end": 227,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 33,
+        "end": 70,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 219,
+        "end": 227,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "é possível acompanhar online, remotamente, remoto, de casa, pela internet hospedagem de aplicações no mainframe que  presencial, fisicamente, fisico, pessoalmente, presencias?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 73,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 74,
+        "end": 111,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 117,
+        "end": 174,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 65,
+        "end": 73,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 74,
+        "end": 111,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Solicitei o serviço hospedagem de aplicações no mainframe ele permite andamento presencial, fisicamente, fisico, pessoalmente, presencias, posso acompanha-ló online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 80,
+        "end": 137,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 158,
+        "end": 209,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 20,
+        "end": 57,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 201,
+        "end": 209,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias, quais  podem ser assistidos online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 64,
+        "end": 121,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 151,
+        "end": 202,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 194,
+        "end": 202,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber sobre os hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias que  podem ser averiguados online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 81,
+        "end": 138,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 166,
+        "end": 217,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 209,
+        "end": 217,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias, quais  permite acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 58,
+        "end": 115,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 147,
+        "end": 198,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 190,
+        "end": 198,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre os hospedagem de aplicações no mainframe permite atuação presencial, fisicamente, fisico, pessoalmente, presencias, quais são os que  permite acompanhar online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 63,
+        "end": 120,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 159,
+        "end": 210,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 9,
+        "end": 46,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 202,
+        "end": 210,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias de  acompanhamento online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 56,
+        "end": 113,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 133,
+        "end": 184,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 176,
+        "end": 184,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe que permite acessar apenas online, remotamente, remoto, de casa, pela internet, Qual seu site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 69,
+        "end": 120,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 131,
+        "end": 168,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 176,
+        "end": 228,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 112,
+        "end": 120,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O hospedagem de aplicações no mainframe que permite acessar apenas online, remotamente, remoto, de casa, pela internet, Qual seu site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 67,
+        "end": 118,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 129,
+        "end": 166,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 174,
+        "end": 226,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 2,
+        "end": 39,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 110,
+        "end": 118,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe online, remotamente, remoto, de casa, pela internet, qual seu site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 42,
+        "end": 93,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 104,
+        "end": 141,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 149,
+        "end": 201,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 85,
+        "end": 93,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber quanto ao hospedagem de aplicações no mainframe, onde site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso, para um serviço hospedagem de aplicações no mainframe e online, remotamente, remoto, de casa, pela internet?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 72,
+        "end": 109,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 117,
+        "end": 169,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 187,
+        "end": 224,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 227,
+        "end": 278,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 187,
+        "end": 224,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 270,
+        "end": 278,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar quanto, aos hospedagem de aplicações no mainframe online, remotamente, remoto, de casa, pela internet, onde site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 32,
+        "end": 69,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 70,
+        "end": 121,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 128,
+        "end": 165,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 173,
+        "end": 225,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 32,
+        "end": 69,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 113,
+        "end": 121,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe online, remotamente, remoto, de casa, pela internet, onde podem ser site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 48,
+        "end": 99,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 116,
+        "end": 153,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 161,
+        "end": 213,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 91,
+        "end": 99,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso? dos hospedagem de aplicações no mainframe online, remotamente, remoto, de casa, pela internet.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 45,
+        "end": 97,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 103,
+        "end": 140,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 141,
+        "end": 192,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 103,
+        "end": 140,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 184,
+        "end": 192,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como saber sobre um online, remotamente, remoto, de casa, pela internet de hospedagem de aplicações no mainframe o que é preciso e onde site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 71,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 136,
+        "end": 173,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 181,
+        "end": 233,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 63,
+        "end": 71,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Tudo que é seus quesitos, requerido, requesitos, necessário, preciso para o serviço hospedagem de aplicações no mainframe e online, remotamente, remoto, de casa, pela internet e onde posso consultar site, website, webpage, página da web?",
+    "entities": [
+      {
+        "start": 16,
+        "end": 68,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 84,
+        "end": 121,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 124,
+        "end": 175,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 199,
+        "end": 236,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 84,
+        "end": 121,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 167,
+        "end": 175,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe que podem ser online, remotamente, remoto, de casa, pela internet, onde posso conferir site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 113,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 135,
+        "end": 172,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 180,
+        "end": 232,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 105,
+        "end": 113,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber o site, website, webpage, página da web sobre hospedagem de aplicações no mainframe para o serviço online, remotamente, remoto, de casa, pela internet e o que quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 20,
+        "end": 57,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 64,
+        "end": 101,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 117,
+        "end": 168,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 177,
+        "end": 229,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 64,
+        "end": 101,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 160,
+        "end": 168,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O Serviço online, remotamente, remoto, de casa, pela internet de hospedagem de aplicações no mainframe, onde consulto o site, website, webpage, página da web e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 61,
+        "value": "online, remotamente, remoto, de casa, pela internet",
+        "entity": "acessoOnline"
+      },
+      {
+        "start": 65,
+        "end": 102,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 120,
+        "end": 157,
+        "value": "site, website, webpage, página da web",
+        "entity": "enderecoOnline"
+      },
+      {
+        "start": 165,
+        "end": 217,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 53,
+        "end": 61,
+        "value": "internet",
+        "extractor": "RegexEntityExtractor"
+      },
+      {
+        "entity": "nomServico",
+        "start": 65,
+        "end": 102,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe que permite acessar presencial, fisicamente, fisico, pessoalmente, presencias, Qual seu endereco, rua, localmente, endereçado, localizado, acesso e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 119,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 130,
+        "end": 187,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 195,
+        "end": 247,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quais hospedagem de aplicações no mainframe que permite acessar presencial, fisicamente, fisico, pessoalmente, presencias, Qual seu endereco, rua, localmente, endereçado, localizado, acesso e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 64,
+        "end": 121,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 132,
+        "end": 189,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 197,
+        "end": 249,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 6,
+        "end": 43,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dos hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias, Qual seu endereco, rua, localmente, endereçado, localizado, acesso e seus quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 60,
+        "end": 117,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 128,
+        "end": 185,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 193,
+        "end": 245,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 4,
+        "end": 41,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber quanto ao hospedagem de aplicações no mainframe, qual seu endereco, rua, localmente, endereçado, localizado, acesso e seus quesitos, requerido, requesitos, necessário, preciso, para um serviço presencial, fisicamente, fisico, pessoalmente, presencias?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 76,
+        "end": 133,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 141,
+        "end": 193,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 211,
+        "end": 268,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 28,
+        "end": 65,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar quanto, aos hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias, onde acesso e o que é quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 32,
+        "end": 69,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 88,
+        "end": 145,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 152,
+        "end": 158,
+        "value": "acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 169,
+        "end": 221,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 32,
+        "end": 69,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias, endereco, rua, localmente, endereçado, localizado, acesso podem ser solicitados e seus principais quesitos, requerido, requesitos, necessário, preciso.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 66,
+        "end": 123,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 125,
+        "end": 182,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 223,
+        "end": 275,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "endereco, rua, localmente, endereçado, localizado, acesso e quesitos, requerido, requesitos, necessário, preciso dos hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 57,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 60,
+        "end": 112,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 117,
+        "end": 154,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 173,
+        "end": 230,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 117,
+        "end": 154,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como saber o que é quesitos, requerido, requesitos, necessário, preciso e endereco, rua, localmente, endereçado, localizado, acesso dados sobre os hospedagem de aplicações no mainframe permite andamento presencial, fisicamente, fisico, pessoalmente, presencias.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 71,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 74,
+        "end": 131,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 147,
+        "end": 184,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 203,
+        "end": 260,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 147,
+        "end": 184,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Tudo que é quesitos, requerido, requesitos, necessário, preciso sobre o hospedagem de aplicações no mainframe para o serviço presencial, fisicamente, fisico, pessoalmente, presencias e onde posso acessa-lo endereco, rua, localmente, endereçado, localizado, acesso?",
+    "entities": [
+      {
+        "start": 11,
+        "end": 63,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 72,
+        "end": 109,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 125,
+        "end": 182,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 206,
+        "end": 263,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 72,
+        "end": 109,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Dentre os hospedagem de aplicações no mainframe que podem ser presencial, fisicamente, fisico, pessoalmente, presencias, onde posso conferir seus quesitos, requerido, requesitos, necessário, preciso e seu endereco, rua, localmente, endereçado, localizado, acesso?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 62,
+        "end": 119,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 146,
+        "end": 198,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      },
+      {
+        "start": 205,
+        "end": 262,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 10,
+        "end": 47,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber quanto o hospedagem de aplicações no mainframe onde fica endereco, rua, localmente, endereçado, localizado, acesso o serviço presencial, fisicamente, fisico, pessoalmente, presencias e o que quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 75,
+        "end": 132,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 143,
+        "end": 200,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 209,
+        "end": 261,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe é um serviço presencial, fisicamente, fisico, pessoalmente, presencias, onde está localizado endereco, rua, localmente, endereçado, localizado, acesso e o que é quesitos, requerido, requesitos, necessário, preciso?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 51,
+        "end": 108,
+        "value": "presencial, fisicamente, fisico, pessoalmente, presencias",
+        "entity": "acessoPres"
+      },
+      {
+        "start": 131,
+        "end": 188,
+        "value": "endereco, rua, localmente, endereçado, localizado, acesso",
+        "entity": "enderecoPresencial"
+      },
+      {
+        "start": 199,
+        "end": 251,
+        "value": "quesitos, requerido, requesitos, necessário, preciso",
+        "entity": "requisitos"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Quanto tempo o hospedagem de aplicações no mainframe estipulado para o cidadão ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado?",
+    "entities": [
+      {
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 83,
+        "end": 142,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 15,
+        "end": 52,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual tempo de hospedagem de aplicações no mainframe estipulado para o atendido, atendimento, auxiliado, apoiado, ajudado, apoiado?",
+    "entities": [
+      {
+        "start": 14,
+        "end": 51,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 70,
+        "end": 129,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 14,
+        "end": 51,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual o tempo mímino para ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado no hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 29,
+        "end": 88,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      },
+      {
+        "start": 92,
+        "end": 129,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 92,
+        "end": 129,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual o prazo de atendido, atendimento, auxiliado, apoiado, ajudado, apoiado no hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 16,
+        "end": 75,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      },
+      {
+        "start": 79,
+        "end": 116,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 79,
+        "end": 116,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "A respeito do tempo de atendido, atendimento, auxiliado, apoiado, ajudado, apoiado no hospedagem de aplicações no mainframe, qual o prazo?",
+    "entities": [
+      {
+        "start": 23,
+        "end": 82,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      },
+      {
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 86,
+        "end": 123,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber quanto tempo custa para ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado na  hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 46,
+        "end": 105,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      },
+      {
+        "start": 110,
+        "end": 147,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 110,
+        "end": 147,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Tempo de atendido, atendimento, auxiliado, apoiado, ajudado, apoiado minimo no  hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 68,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      },
+      {
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 80,
+        "end": 117,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar em quanto tempo eu serei hospedagem de aplicações no mainframe disponível, qual prazo para ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado?",
+    "entities": [
+      {
+        "start": 45,
+        "end": 82,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 115,
+        "end": 174,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 45,
+        "end": 82,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "De acordo com o serviço de hospedagem de aplicações no mainframe disponível, qual prazo para ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 97,
+        "end": 156,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 27,
+        "end": 64,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Estou em espera no hospedagem de aplicações no mainframe disponível, qual prazo para ser atendido, atendimento, auxiliado, apoiado, ajudado, apoiado?",
+    "entities": [
+      {
+        "start": 19,
+        "end": 56,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 89,
+        "end": 148,
+        "value": "atendido, atendimento, auxiliado, apoiado, ajudado, apoiado",
+        "entity": "tempoAtendimento"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 19,
+        "end": 56,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual a descrição, finalidade, propósito, definição, descrito para o hospedagem de aplicações no mainframe solicitado?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 60,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 68,
+        "end": 105,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 68,
+        "end": 105,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Defina a descrição, finalidade, propósito, definição, descrito do hospedagem de aplicações no mainframe solicitado?",
+    "entities": [
+      {
+        "start": 9,
+        "end": 62,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 66,
+        "end": 103,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 66,
+        "end": 103,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O que é descrição, finalidade, propósito, definição, descrito o serviço de hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 61,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como descrição, finalidade, propósito, definição, descrito a hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 5,
+        "end": 58,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 61,
+        "end": 98,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 61,
+        "end": 98,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual a descrição, finalidade, propósito, definição, descrito da hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 60,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 64,
+        "end": 101,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 64,
+        "end": 101,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Gostaria de saber qual a descrição, finalidade, propósito, definição, descrito da hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 25,
+        "end": 78,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 82,
+        "end": 119,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 82,
+        "end": 119,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "O que é a descrição, finalidade, propósito, definição, descrito para o servico hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 10,
+        "end": 63,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 79,
+        "end": 116,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 79,
+        "end": 116,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Como saber o que é a descrição, finalidade, propósito, definição, descrito da hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 21,
+        "end": 74,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 78,
+        "end": 115,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 78,
+        "end": 115,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Poderia me informar sobre a descrição, finalidade, propósito, definição, descrito da hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 28,
+        "end": 81,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 85,
+        "end": 122,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 85,
+        "end": 122,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "hospedagem de aplicações no mainframe, o que é sua descrição, finalidade, propósito, definição, descrito?",
+    "entities": [
+      {
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 51,
+        "end": 104,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 0,
+        "end": 37,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Sobre a hospedagem de aplicações no mainframe, qual sua descrição, finalidade, propósito, definição, descrito?",
+    "entities": [
+      {
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      },
+      {
+        "start": 56,
+        "end": 109,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 8,
+        "end": 45,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Qual a descrição, finalidade, propósito, definição, descrito do serviço de hospedagem de aplicações no mainframe?",
+    "entities": [
+      {
+        "start": 7,
+        "end": 60,
+        "value": "descrição, finalidade, propósito, definição, descrito",
+        "entity": "finalidade"
+      },
+      {
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "entity": "nomServico"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "entity": "nomServico",
+        "start": 75,
+        "end": 112,
+        "value": "hospedagem de aplicações no mainframe",
+        "extractor": "RegexEntityExtractor"
+      }
+    ]
+  }
+]

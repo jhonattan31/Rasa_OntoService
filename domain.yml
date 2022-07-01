@@ -1,0 +1,96 @@
+version: "3.0"
+
+intents:
+  - cumprimento
+  - hor_func
+  - forma_acesso
+  - req_serv
+  - doc_neces
+  - serv_gratis
+  - serv_pres_on
+  - serv_online_desc
+  - serv_pres_desc
+  - temp_serv
+  - desc_serv
+
+actions:
+  - action_hor_func
+  - action_acesso
+  - action_req_serv
+  - action_doc_neces
+  - action_serv_gratis
+  - action_pres_on
+  - action_online_desc
+  - action_pres_desc
+  - action_temp_serv
+  - action_desc_serv
+
+entities:
+  - acessoOnAcompa
+  - acessoOnline
+  - acessoPres
+  - acessoPresAcompa
+  - acessoTelAcompa
+  - acessoTelefone
+  - areaRespon
+  - bancoPalavra
+  - codigo
+  - docNeces
+  - endereco
+  - enderecoMapa
+  - enderecoOnline
+  - enderecoPresencial
+  - enderecoValor
+  - etapasAtendimento
+  - finalidade
+  - horarioAtendimento
+  - label
+  - legislacao
+  - nomServico
+  - negacao
+  - outrosAcessos
+  - possui
+  - prazoEntrega
+  - publicoAlvo
+  - realizado
+  - requisitos
+  - servAtivo
+  - servDigital
+  - servGratuito
+  - siteOficial
+  - solicitante
+  - telefone
+  - tempAtendPriori
+  - tempoAtendimento
+  - unidPres
+  - broader
+  - notation
+
+responses:
+  utter_cumprimento:
+  - text: "olá sou o CearaDigitalBot, estou aqui para tirar suas dúvidas sobre a carta de serviços do Estado do Ceará. Em que posso ajudá-lo?"
+  action_hor_func:
+  - text: "Estamos verificando o horário de funcionamento do serviço desejado, aguarde um momento.\n"
+  action_acesso:
+  - text: "Estamos procurando as formas de acesso para o serviço desejado, aguarde um momento.\n"
+  action_req_serv:
+  - text: "Estamos verificando os requisitos para o serviço desejado, aguarde um momento.\n"
+  action_doc_neces:
+  - text: "Estamos verificando os documentos necessario para o serviço desejado, aguarde um momento.\n"
+  action_serv_gratis:
+  - text: "Estamos analisando quais os serviços gratuitos, aguarde um momento.\n"
+  action_pres_on:
+  - text: "Estamos analisando se o serviço possui acompanhamento online, aguarde um momento.\n"
+  action_online_desc:
+  - text: "Estamos analidando os dados do serviço online, aguarde um momento.\n"
+  action_pres_desc:
+  - text: "Estamos analidando os dados do serviço presencial, aguarde um momento.\n"
+  action_temp_serv:
+  - text: "Estamos analisando o tempo de atendimento necessário para o serviço desejado, aguarde um momento.\n"
+  action_desc_serv:
+  - text: "Estamos analisando a descrição do serviço desejado, aguarde um momento.\n"
+
+
+session_config:
+  session_expiration_time: 80
+  carry_over_slots_to_new_session: true

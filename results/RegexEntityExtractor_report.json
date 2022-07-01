@@ -1,0 +1,99 @@
+{
+  "requisitos": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 180,
+    "confused_with": {}
+  },
+  "docNeces": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 275,
+    "confused_with": {}
+  },
+  "enderecoPresencial": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 67,
+    "confused_with": {}
+  },
+  "tempoAtendimento": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 60,
+    "confused_with": {}
+  },
+  "enderecoOnline": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 72,
+    "confused_with": {}
+  },
+  "horarioAtendimento": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 350,
+    "confused_with": {}
+  },
+  "acessoOnline": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 420,
+    "confused_with": {
+      "nomServico": 60
+    }
+  },
+  "servGratuito": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 48,
+    "confused_with": {}
+  },
+  "nomServico": {
+    "precision": 0.9272727272727272,
+    "recall": 1.0,
+    "f1-score": 0.9622641509433962,
+    "support": 765,
+    "confused_with": {}
+  },
+  "acessoPres": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 294,
+    "confused_with": {}
+  },
+  "finalidade": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 60,
+    "confused_with": {}
+  },
+  "micro avg": {
+    "precision": 0.9272727272727272,
+    "recall": 0.29525279814743344,
+    "f1-score": 0.44789227166276346,
+    "support": 2591
+  },
+  "macro avg": {
+    "precision": 0.08429752066115702,
+    "recall": 0.09090909090909091,
+    "f1-score": 0.08747855917667238,
+    "support": 2591
+  },
+  "weighted avg": {
+    "precision": 0.27377986737307464,
+    "recall": 0.29525279814743344,
+    "f1-score": 0.284111183123002,
+    "support": 2591
+  }
+}

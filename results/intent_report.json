@@ -1,0 +1,116 @@
+{
+  "serv_gratis": {
+    "precision": 0.9264705882352942,
+    "recall": 0.9,
+    "f1-score": 0.9130434782608695,
+    "support": 140,
+    "confused_with": {
+      "serv_pres_on": 12,
+      "hor_func": 1
+    }
+  },
+  "serv_pres_desc": {
+    "precision": 0.5990990990990991,
+    "recall": 1.0,
+    "f1-score": 0.7492957746478873,
+    "support": 133,
+    "confused_with": {}
+  },
+  "desc_serv": {
+    "precision": 0.9741379310344828,
+    "recall": 0.849624060150376,
+    "f1-score": 0.9076305220883534,
+    "support": 133,
+    "confused_with": {
+      "serv_pres_on": 9,
+      "hor_func": 8
+    }
+  },
+  "serv_pres_on": {
+    "precision": 0.6780487804878049,
+    "recall": 0.9928571428571429,
+    "f1-score": 0.8057971014492753,
+    "support": 140,
+    "confused_with": {
+      "hor_func": 1
+    }
+  },
+  "forma_acesso": {
+    "precision": 0.946236559139785,
+    "recall": 0.6285714285714286,
+    "f1-score": 0.7553648068669527,
+    "support": 140,
+    "confused_with": {
+      "serv_pres_desc": 43,
+      "serv_pres_on": 7
+    }
+  },
+  "serv_online_desc": {
+    "precision": 0.9914529914529915,
+    "recall": 0.8285714285714286,
+    "f1-score": 0.9027237354085603,
+    "support": 140,
+    "confused_with": {
+      "serv_pres_desc": 22,
+      "serv_pres_on": 1
+    }
+  },
+  "temp_serv": {
+    "precision": 1.0,
+    "recall": 0.9357142857142857,
+    "f1-score": 0.966789667896679,
+    "support": 140,
+    "confused_with": {
+      "serv_pres_on": 5,
+      "serv_gratis": 2
+    }
+  },
+  "hor_func": {
+    "precision": 0.8252427184466019,
+    "recall": 0.6390977443609023,
+    "f1-score": 0.7203389830508473,
+    "support": 133,
+    "confused_with": {
+      "serv_pres_on": 24,
+      "serv_pres_desc": 16
+    }
+  },
+  "req_serv": {
+    "precision": 0.6684210526315789,
+    "recall": 0.9071428571428571,
+    "f1-score": 0.7696969696969697,
+    "support": 140,
+    "confused_with": {
+      "serv_pres_on": 8,
+      "serv_pres_desc": 3
+    }
+  },
+  "doc_neces": {
+    "precision": 0.8769230769230769,
+    "recall": 0.40714285714285714,
+    "f1-score": 0.5560975609756098,
+    "support": 140,
+    "confused_with": {
+      "req_serv": 62,
+      "serv_gratis": 5
+    }
+  },
+  "micro avg": {
+    "precision": 0.809143686502177,
+    "recall": 0.8085569253081943,
+    "f1-score": 0.8088501994922017,
+    "support": 1379
+  },
+  "macro avg": {
+    "precision": 0.8486032797450715,
+    "recall": 0.8088721804511279,
+    "f1-score": 0.8046778600342004,
+    "support": 1379
+  },
+  "weighted avg": {
+    "precision": 0.8493511482255539,
+    "recall": 0.8085569253081943,
+    "f1-score": 0.8048645011525533,
+    "support": 1379
+  }
+}

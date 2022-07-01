@@ -1,0 +1,158 @@
+{
+  "action_req_serv": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "serv_pres_desc": {
+    "precision": 0.6226415094339622,
+    "recall": 0.9924812030075187,
+    "f1-score": 0.7652173913043478,
+    "support": 133
+  },
+  "action_desc_serv": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 133
+  },
+  "req_serv": {
+    "precision": 0.6774193548387096,
+    "recall": 0.9,
+    "f1-score": 0.7730061349693251,
+    "support": 140
+  },
+  "action_serv_gratis": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "serv_pres_on": {
+    "precision": 0.695,
+    "recall": 0.9928571428571429,
+    "f1-score": 0.8176470588235295,
+    "support": 140
+  },
+  "action_listen": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 1379
+  },
+  "serv_online_desc": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 140
+  },
+  "temp_serv": {
+    "precision": 1.0,
+    "recall": 0.9214285714285714,
+    "f1-score": 0.9591078066914498,
+    "support": 140
+  },
+  "action_doc_neces": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "hor_func": {
+    "precision": 0.8350515463917526,
+    "recall": 0.6090225563909775,
+    "f1-score": 0.7043478260869566,
+    "support": 133
+  },
+  "doc_neces": {
+    "precision": 0.8852459016393442,
+    "recall": 0.38571428571428573,
+    "f1-score": 0.5373134328358209,
+    "support": 140
+  },
+  "action_hor_func": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 133
+  },
+  "forma_acesso": {
+    "precision": 0.9565217391304348,
+    "recall": 0.6285714285714286,
+    "f1-score": 0.7586206896551724,
+    "support": 140
+  },
+  "action_pres_on": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "serv_gratis": {
+    "precision": 0.9402985074626866,
+    "recall": 0.9,
+    "f1-score": 0.9197080291970803,
+    "support": 140
+  },
+  "action_online_desc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "action_temp_serv": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "desc_serv": {
+    "precision": 0.9824561403508771,
+    "recall": 0.8421052631578947,
+    "f1-score": 0.9068825910931173,
+    "support": 133
+  },
+  "None": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 788
+  },
+  "action_pres_desc": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 133
+  },
+  "action_acesso": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 140
+  },
+  "micro avg": {
+    "precision": 0.9418803418803419,
+    "recall": 0.7831472081218274,
+    "f1-score": 0.8552106430155211,
+    "support": 4925
+  },
+  "macro avg": {
+    "precision": 0.8906652136021712,
+    "recall": 0.862371838687628,
+    "f1-score": 0.8650336295248041,
+    "support": 4925
+  },
+  "weighted avg": {
+    "precision": 0.8008462565525789,
+    "recall": 0.7831472081218274,
+    "f1-score": 0.7849072983303564,
+    "support": 4925
+  },
+  "conversation_accuracy": {
+    "accuracy": 0.3401015228426396,
+    "correct": 469,
+    "with_warnings": 0,
+    "total": 1379
+  }
+}
